@@ -2,7 +2,7 @@
 Python 3 library for controlling DJI Tello Drones
 
 This library provides a thin wrapper around the
-[DJITelloPy}(https://github.com/damiafuentes/DJITelloPy) library,
+[DJITelloPy](https://github.com/damiafuentes/DJITelloPy) library,
 which itself is a wrapper around the [official DJI Tello Python
 SDK](https://github.com/dji-sdk/Tello-Python). The main advantage of
 this library is that it makes it simple to view and record video
