@@ -4,7 +4,6 @@ check:
 
 https://djitellopy.readthedocs.io/en/latest/tello/
 """
-
 from tello import Drone
 
 with Drone() as d:
